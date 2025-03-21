@@ -41,6 +41,20 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=v-eenay&langs_count=10&theme=tokyonight)]()
 
 ###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v-eenay/v-eenay/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v-eenay/v-eenay/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/v-eenay/v-eenay/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/v-eenay/count.svg?"  />
+</div>
+
+###
+###
 
 <h2 align="left">Get in Touch</h2>
 
