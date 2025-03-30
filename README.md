@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=300&section=header&text=💻VINAY%20KOIRALA📚&fontSize=65&animation=fadeIn&fontAlignY=50&desc=IT%20Lecturer%20%7C%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=70&descAlign=50&descColor=87CEFA&textColor=00FFFF&fontFamily=Orbitron&customColorList=20,40,60,80,100" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2A2A2A&height=300&section=header&text=💻VINAY%20KOIRALA📚&fontSize=65&animation=fadeIn&fontAlignY=50&desc=IT%20Lecturer%20%7C%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=70&descAlign=50&descColor=87CEFA&textColor=00FFFF&fontFamily=Orbitron&customColorList=20,40,60,80,100" width="100%" />
 </div>
 <hr>
 <div align="center">
@@ -7,7 +7,7 @@
 </div>
 <hr>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FAFAFA&height=120&section=header&text=🧑‍💻About+Me&fontSize=45&animation=fadeIn&fontAlignY=50&textColor=F8F8FF&fontFamily=Orbitron&customColorList=20,50,80,110" width="85%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2A2A2A&height=120&section=header&text=🧑‍💻About+Me&fontSize=45&animation=fadeIn&fontAlignY=50&textColor=F8F8FF&fontFamily=Orbitron&customColorList=20,50,80,110" width="85%" />
 </div>
 <hr>
 I'm  <b>Vinay Koirala</b>, an <b>IT Lecturer<b> at <b>Itahari International College</b> in Nepal, with a passion for <b>coding</b> that began in <b>2013</b>. I’m constantly pushing my limits to explore <b>new technologies</b>, from <b>AI</b> to <b>Blockchain</b>, all while teaching and inspiring the next generation of developers.
@@ -33,7 +33,7 @@ I believe in combining the power of **technology** with **creativity**, and as a
 </div>
 <hr>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FAFAFA&height=120&section=header&text=🔧%20Tech%20Arsenal&fontSize=45&animation=fadeIn&fontAlignY=50&textColor=00FFFF&fontFamily=Orbitron&customColorList=20,50,80,110" width="85%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2A2A2A&height=120&section=header&text=🔧%20Tech%20Arsenal&fontSize=45&animation=fadeIn&fontAlignY=50&textColor=00FFFF&fontFamily=Orbitron&customColorList=20,50,80,110" width="85%" />
 </div>
 <hr>
 <div align="center">
@@ -108,7 +108,7 @@ I believe in combining the power of **technology** with **creativity**, and as a
 </div>
 <hr>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FAFAFA&height=80&section=header&text=🐙GitHub%20Stats&fontSize=30&fontColor=1F1F1F&fontFamily=Orbitron&textAlign=center" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2A2A2A&height=80&section=header&text=🐙GitHub%20Stats&fontSize=30&fontColor=000000&fontFamily=Orbitron&textAlign=center" width="100%" />
 </div>
 <hr>
 <div align="center">
@@ -126,7 +126,7 @@ I believe in combining the power of **technology** with **creativity**, and as a
 </div>
 <hr>
 <div align="center">
-  <h2 style="background-color: #1D1D1D; color: #FFFFFF; padding: 10px 30px; border-radius: 10px; width: fit-content;">📬Let's Connect</h2>
+  <h2 style="background-color: #1D1D1D; color: #2A2A2A; padding: 10px 30px; border-radius: 10px; width: fit-content;">📬Let's Connect</h2>
 </div>
 
 <div align="center">
@@ -148,6 +148,6 @@ I believe in combining the power of **technology** with **creativity**, and as a
 </div>
 <hr>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&text=Crafting%20Code,%20Creating%20Impact!&fontAlign=50&fontAlignY=30&color=0A66C2&fontColor=FFFFFF&animation=fadeIn&customColorList=15,25,35&textAlign=center&fontSize=30" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&text=Crafting%20Code,%20Creating%20Impact!&fontAlign=50&fontAlignY=30&color=0A66C2&fontColor=EAEAEA&animation=fadeIn&customColorList=15,25,35&textAlign=center&fontSize=30" width="100%" />
 </div>
 <hr>
