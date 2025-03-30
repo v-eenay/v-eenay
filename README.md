@@ -1,69 +1,114 @@
-<h1 align="left">Hello there! 👋 Welcome to my GitHub</h1>
-
-###
-
-<p align="left">
-  I'm <b>Vinay Koirala</b>, an <b>IT Lecturer at Itahari International College</b>, hailing from the beautiful town of Itahari, Sunsari, Nepal. 
-  My journey into the world of coding started around 2013, and while my GitHub might not show my earlier works, I've been evolving and experimenting ever since.
-</p>
-
-###
-
-<h2 align="left">About Me</h2>
-
-###
-
-<p align="left">
-  ✨ Crafting code and occasionally bugs since 2013 <br>
-  📚 Currently, I'm exploring a wide range of topics in tech. My learning focus shifts frequently due to my curiosity and, admittedly, a short attention span.<br>
-  🎯 My goal is simple: to keep learning, growing, and eventually figure out my niche in this ever-expanding field.<br>
-  🎲 Fun Fact: Before I delved into the tech world, I was on stage—acting in theater!
-</p>
-
-###
-
-<h2 align="left">Technologies & Tools</h2>
-
-###
-
-<p align="left">Throughout my career, I've had the opportunity to work with a diverse array of programming languages and tools. Here are some that I frequently use:</p>
-
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-###
-
-<h2 align="left">GitHub Stats</h2>
-
-###
-
-<p align="left">Here’s a glimpse into the languages I frequently use:</p>
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=v-eenay&langs_count=10&theme=tokyonight)]()
-
-###
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/v-eenay/count.svg?"  />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=VINAY%20KOIRALA&fontSize=90&animation=twinkling&fontAlignY=38&desc=IT%20Lecturer%20%7C%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
-###
-###
+## 🌟 About Me
 
-<h2 align="left">Get in Touch</h2>
+I'm **Vinay Koirala**, an IT Lecturer at Itahari International College in Nepal. Coding since 2013, I'm constantly exploring new technologies while teaching the next generation of developers.
 
-###
+```
+✨ Crafting code since 2013
+📚 Technology explorer with diverse interests
+🎯 Passionate about continuous learning
+🎭 Former theater actor turned tech enthusiast
+```
 
-<p align="left">
-  📧 <b>Personal:</b> <a href="mailto:koiralavinay@gmail.com">koiralavinay@gmail.com</a><br>
-  📧 <b>Professional:</b> <a href="mailto:binaya.koirala@iic.edu.np">binaya.koirala@iic.edu.np</a>
-</p>
+## 🔧 Tech Arsenal
 
-###
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+        <br>Java
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+        <br>C++
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
+        <br>C#
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" width="48" height="48" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" width="48" height="48" />
+        <br>Flutter
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" alt="Dart" width="48" height="48" />
+        <br>Dart
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" width="48" height="48" />
+        <br>Tailwind
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=25&center=false&vCenter=false&width=500&lines=Thanks+for+stopping+by!+😊;Let's+connect+and+collaborate!+🚀" alt="Typing SVG">
-</p>
+## 📊 GitHub Stats
 
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=v-eenay&show_icons=true&theme=radical&bg_color=0D1117&title_color=FF61D2&text_color=9D65FF&icon_color=6A5ACD&hide_border=true&count_private=true&include_all_commits=true" width="700px" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=v-eenay&theme=radical&hide_border=true&background=0D1117&stroke=6A5ACD&ring=9D65FF&fire=FF61D2&currStreakNum=FF61D2&sideNums=9D65FF&currStreakLabel=9D65FF&sideLabels=FF61D2&dates=6A5ACD" width="700px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-eenay&layout=compact&theme=radical&bg_color=0D1117&title_color=FF61D2&text_color=9D65FF&icon_color=6A5ACD&hide_border=true&langs_count=8" width="700px" />
+</div>
+<div align="center">
+  <h3>Profile Views</h3>
+  <img src="https://komarev.com/ghpvc/?username=v-eenay&label=Visitors&color=0A66C2&style=for-the-badge" alt="Profile Views" />
+</div>
 
-<p align="left">I’m constantly pushing myself to learn more and contribute to the community. Feel free to explore my repositories, and if anything catches your eye, don't hesitate to connect!</p>
+## 📬 Connect With Me
+
+<div align="center">
+  <a href="mailto:koiralavinay@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="mailto:binaya.koirala@iic.edu.np">
+    <img src="https://img.shields.io/badge/Work%20Email-4285F4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Work Email" />
+  </a>
+  <a href="https://github.com/v-eenay">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/veenay/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+<div align="center">
+  <!-- Animated Typing Text -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&background=FF21EE00&width=500&center=true&vCenter=true&lines=Thanks+for+stopping+by!;Let's+connect+and+collaborate!;Bringing+Ideas+to+Life+Through+Code!;Happy+Coding!+🚀" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <!-- Capsule Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Crafting%20Code,%20Creating%20Impact!&fontAlign=50&fontAlignY=35&color=0A66C2&fontColor=FFFFFF&animation=fadeIn&customColorList=15,25,35&textAlign=center" width="100%" />
+</div>
