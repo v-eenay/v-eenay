@@ -112,10 +112,10 @@ I believe in combining the power of **technology** with **creativity**, and as a
 </div>
 <hr>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=v-eenay&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0D1117&title_color=FFD700&text_color=00D8FF&icon_color=00FF7F" width="700px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=v-eenay&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=dark&bg_color=0D1117&title_color=FFD700&text_color=00D8FF&icon_color=00FF7F" width="700px" />
   
 <hr>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=v-eenay&theme=dark&hide_border=true&background=0D1117&stroke=FFD700&ring=00D8FF&fire=00FF7F&currStreakNum=FFD700&sideNums=00D8FF&currStreakLabel=00FF7F&sideLabels=FFD700&dates=00D8FF" width="700px" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=v-eenay&theme=dark&hide_border=false&background=0D1117&stroke=FFD700&ring=00D8FF&fire=00FF7F&currStreakNum=FFD700&sideNums=00D8FF&currStreakLabel=00FF7F&sideLabels=FFD700&dates=00D8FF" width="700px" />
 <hr>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-eenay&layout=compact&theme=dark&bg_color=0D1117&title_color=FFD700&text_color=00D8FF&icon_color=00FF7F&hide_border=true&langs_count=8" width="700px" />
 </div>
