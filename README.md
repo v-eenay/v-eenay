@@ -165,6 +165,23 @@
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=Code%20With%20Passion&fontSize=30&fontAlign=50&fontAlignY=80&fontColor=FFFFFF&color=gradient&customColorList=6,12,20,24" width="100%" />
+<div align="center" style="margin-top: 20px;">
+  <table>
+    <tr>
+      <td width="50%">
+        <div align="center">
+          <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="280">
+          <br><br>
+          <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=22&pause=1000&color=FF00FF&center=true&vCenter=true&random=false&width=280&lines=Teaching+the+art+of+code;Mentoring+future+developers;Sharing+technical+knowledge;Inspiring+digital+creativity" alt="Teaching Coding" /></a>
+        </div>
+      </td>
+      <td width="50%">
+        <div align="center">
+          <img src="https://media.giphy.com/media/3o7aTuy3b4TwuUSUzm/giphy.gif" width="280">
+          <br><br>
+          <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=280&lines=Exploring+theatrical+arts;Blending+tech+with+creativity;Performing+with+passion;Visual+storytelling" alt="Theater and Art" /></a>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
