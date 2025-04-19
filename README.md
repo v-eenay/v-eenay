@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=v-eenay&label=Profile%20Views&color=2962FF&style=for-the-badge" alt="Profile Views" />
 </p>
 <div align="center">
-  <img src="./images/veenay_octocat.png" width="300" alt="My Custom Octocat" />
+  <img src="veenay_octocat.png" width="300" alt="My Custom Octocat" />
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40" /> About Me
