@@ -12,7 +12,7 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40" /> About Me
 
 <div align="center">
-  <img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5">
+  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif">
 </div>
 
 Versatile technology enthusiast with a unique blend of technical expertise and creative expression. My background in computer science engineering and business administration provides me with a holistic perspective on technology and its applications. When I'm not immersed in code, you'll find me on stage, where I channel my passion for theatrical arts.
