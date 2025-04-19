@@ -1,187 +1,177 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A,0000FF&height=300&section=header&text=🧑‍💻%20Vinay%20Koirala%20🎭&fontSize=80&fontAlignY=45&fontColor=FFFFFF&desc=👨‍🏫%20IT%20Lecturer%20%7C%20💻%20Tech%20Enthusiast%20%7C%20🎭%20Theater%20Performer&descSize=20&descAlignY=75&animation=fadeIn&fontAlign=middle" width="100%" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A,0000FF&height=300&section=header&text=🧑‍💻%20Vinay%20Koirala%20🎭&fontSize=80&fontAlignY=45&fontColor=FFFFFF&desc=💻%20Tech%20Enthusiast%20%7C%20🎭%20Theater%20Performer&descSize=20&descAlignY=75&animation=fadeIn&fontAlign=middle" width="100%" />
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=v-eenay&label=Profile%20Views&color=2962FF&style=for-the-badge" alt="Profile Views" />
 </p>
+<div align="center">
+  <img src="./images/veenay_octocat.png" width="300" alt="My Custom Octocat" />
+</div>
 
----
+## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40" /> About Me
 
 <div align="center">
-  <details open>
-    <summary><h2>🧠 <img src="https://img.shields.io/badge/ABOUT%20ME-8A2BE2?style=for-the-badge&logo=About.me&logoColor=white" /> 🧠</h2></summary>
-    <table>
-      <tr>
-        <td>
-          <div align="center">
-            <img align="center" alt="Coding Animation" width="450" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
-          </div>
-        </td>
-        <td width="50%">
-          <p align="left">
-            👨‍🏫 IT professional with experience in education and software development since 2013. Currently working as an IT Lecturer at Itahari International College.
-          </p>
-          <p align="left">
-            🎭 Background in theater performance provides a unique approach to technical education and software development. Interested in the intersection of technology and creative expression.
-          </p>
-          <p align="left">
-            💡 <i>"Creativity is intelligence having fun"</i>
-          </p>
-        </td>
-      </tr>
-    </table>
-  </details>
+  <img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5">
 </div>
 
----
+Versatile technology enthusiast with a unique blend of technical expertise and creative expression. My background in computer science engineering and business administration provides me with a holistic perspective on technology and its applications. When I'm not immersed in code, you'll find me on stage, where I channel my passion for theatrical arts.
+
+> *"At the intersection of logic and creativity lies true innovation."*
+
+- 💻 Computer Science Engineer with an MBA
+- 🎭 Theater performer exploring the art of expression
+- 🌱 Constantly exploring emerging technologies
+- 💬 Ask me about the parallels between coding and performing arts
+
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="40" /> Tech Arsenal
 
 <div align="center">
-  <details open>
-    <summary><h2>🚀 <img src="https://img.shields.io/badge/TECHNICAL%20SKILLS-FF6C37?style=for-the-badge&logo=Codecademy&logoColor=white" /> 🚀</h2></summary>
-    <h3 align="center" style="font-family:'Orbitron';">🔧 Languages & Frameworks</h3>
-    <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nextjs,cs,dotnet,cpp,python,dart,flutter,go,rust,kotlin,swift,ruby,rails&perline=6" />
-    <h3 align="center" style="font-family:'Orbitron';">⚙️ Development Tools</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,apollo,mysql,postgres,mongodb,firebase,redis,git,github,docker,kubernetes,azure,aws,gcp,terraform,ansible&perline=6" />
-    <h3 align="center" style="font-family:'Orbitron';">🛠️ Professional Tools</h3>
-    <p align="center">
-      <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-      <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
-      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-      <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" />
-      <img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=rider&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-      <img src="https://img.shields.io/badge/REST-009688?style=for-the-badge&logo=rest&logoColor=white" />
-      <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
-      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-      <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
-    </p>
-    <h3 align="center" style="font-family:'Orbitron';">💻 Operating Systems</h3>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-      <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-    </p>
-  </details>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="500">
 </div>
 
----
+### Languages of Choice
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+### Microsoft Ecosystem
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white" />
+  <img src="https://img.shields.io/badge/MAUI-0078D4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+
+### Frontend Mastery
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### Backend Expertise
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</p>
+
+### Mobile Development
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+### Database & Storage
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+### Essential Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7cc5988c-f607-4d4f-ab01-360a4f9321eb" width="40" /> The Stage & The Screen
 
 <div align="center">
-  <details open>
-    <summary><h2>📊 <img src="https://img.shields.io/badge/GITHUB%20STATISTICS-00FFFF?style=for-the-badge&logo=github&logoColor=white" /> 📊</h2></summary>
-  <div align="center">
-  <h3 align="center" style="font-family:'Share Tech Mono'; font-size:28px;">📊 Performance Metrics</h3>
-  <div style="display: flex; justify-content: center;">
-    <div style="width: 80%; max-width: 800px; height: 330px; background-color: #0D1117; border-radius: 10px; padding: 15px; box-shadow: 0 0 15px rgba(0,255,255,0.3); margin-bottom: 30px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=v-eenay&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=FF00FF&text_color=c9d1d9&bg_color=0d1117&ring_color=ff00ff&line_height=40&custom_title=Vinay%20Koirala's%20GitHub%20Stats&title_font_size=30&text_font_size=22&icon_size=35" width="100%" height="300px" />
-    </div>
-  </div>
-
-  <div style="display: flex; justify-content: center;">
-    <div style="width: 80%; max-width: 800px; height: 330px; background-color: #0D1117; border-radius: 10px; padding: 15px; box-shadow: 0 0 15px rgba(0,255,255,0.3); margin-bottom: 30px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=v-eenay&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF00FF&fire=FF00FF&currStreakNum=FF00FF&sideNums=00FFFF&currStreakLabel=FF00FF&sideLabels=00FFFF&dates=FFFFFF" width="100%" height="300px" />
-    </div>
-  </div>
-
-  <h3 align="center" style="font-family:'Share Tech Mono'; font-size:28px;">📈 Language Distribution</h3>
-  <div style="display: flex; justify-content: center;">
-    <div style="width: 80%; max-width: 800px; height: 330px; background-color: #0D1117; border-radius: 10px; padding: 15px; box-shadow: 0 0 15px rgba(0,255,255,0.3);">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-eenay&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFFF&title_font_size=25&text_font_size=20" width="100%" height="300px" />
-    </div>
-  </div>
-</div>
-    <div style="height: 30px;"></div>
-    <div align="center">
-      <h3 align="center" style="font-family:'Share Tech Mono'; font-size:28px;">🏆 GitHub Trophies</h3>
-      <img src="https://github-profile-trophy.vercel.app/?username=v-eenay&theme=radical&no-frame=true&no-bg=false&margin-w=20&margin-h=20&column=3" width="90%" height="400" />
-    </div>
-  </details>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/dad5d025-91c3-43b9-9a3d-1c9266f77cb7" width="500">
 </div>
 
----
+My background in theater has enhanced my professional capabilities, particularly in communication, presentation, and audience engagement - skills that are invaluable in the technology sector. Theater experience has developed my ability to collaborate effectively and deliver compelling presentations.
+
+> *"All the world's a stage, and all the men and women merely players."* - William Shakespeare
+
+The methodical approach required in theatrical productions parallels software development practices, emphasizing precision, iteration, and team coordination. Both disciplines require structured creativity and meticulous attention to detail.
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="40" /> GitHub Trophies
 
 <div align="center">
-  <details open>
-    <summary><h2>🔄 <img src="https://img.shields.io/badge/CONTRIBUTION%20ACTIVITY-FF00FF?style=for-the-badge&logo=git&logoColor=white" /> 🔄</h2></summary>
-    <h3 align="center" style="font-family:'VT323';">📝 Commit History</h3>
-    <div align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v-eenay&theme=radical" width="95%" />
-    </div>
-    <h3 align="center" style="font-family:'VT323';">🌐 Language Distribution</h3>
-    <div align="center">
-      <table>
-        <tr>
-          <td width="50%">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=v-eenay&theme=radical" width="100%" />
-          </td>
-          <td width="50%">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=v-eenay&theme=radical" width="100%" />
-          </td>
-        </tr>
-      </table>
-    </div>
-    <h3 align="center" style="font-family:'VT323';">⏱️ Productive Time Analysis</h3>
-    <div align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=v-eenay&theme=radical&utcOffset=+5.75" width="70%" />
-    </div>
-    <!--START_SECTION:activity-->
-    <!-- This section will be automatically updated by a GitHub Action -->
-    <!-- Set up a GitHub workflow to populate this section -->
-    <!--END_SECTION:activity-->
-  </details>
+  <h3>🏆 Achievements & Recognition 🏆</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=v-eenay&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=6" width="100%" />
 </div>
 
----
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="40" /> GitHub Stats
 
 <div align="center">
-  <details open>
-    <summary><h2>🧭 <img src="https://img.shields.io/badge/APPROACH-F24E1E?style=for-the-badge&logo=philosophy&logoColor=white" /> 🧭</h2></summary>
-    <div align="center">
-      <p style="font-family:'Pacifico';">🔄 Combining backgrounds in performing arts and technology to approach problems from different angles.</p>
-      <p style="font-family:'Pacifico';">✨ Writing clean, maintainable code that addresses practical requirements.</p>
-      <p style="font-family:'Pacifico';">🔍 Interested in learning about emerging technologies and industry practices.</p>
-    </div>
-  </details>
+  <h3>📊 Contribution Metrics & Activity 📊</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=v-eenay&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=00FFFF&icon_color=FF00FF&text_color=c9d1d9&bg_color=0d1117&ring_color=ff00ff&line_height=40&custom_title=Vinay's%20GitHub%20Stats" width="90%" />
 </div>
-
----
 
 <div align="center">
-  <details open>
-    <summary><h2>📬 <img src="https://img.shields.io/badge/CONTACT%20INFORMATION-0A66C2?style=for-the-badge&logo=mail.ru&logoColor=white" /> 📬</h2></summary>
-    <div align="center">
-      <p>📬 Available for professional collaborations and technical discussions.</p>
-      <a href="mailto:koiralavinay@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-      <a href="mailto:binaya.koirala@iic.edu.np"><img src="https://img.shields.io/badge/Work%20Email-4285F4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-      <a href="https://github.com/v-eenay"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-      <a href="https://www.linkedin.com/in/veenay/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    </div>
-  </details>
+  <h3>🔥 Contribution Streak & Consistency 🔥</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=v-eenay&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF00FF&fire=FF00FF&currStreakNum=FF00FF&sideNums=00FFFF&currStreakLabel=FF00FF&sideLabels=00FFFF&dates=FFFFFF" width="90%" />
 </div>
 
----
+<div align="center">
+  <h3>🧩 Most Used Languages & Technologies 🧩</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-eenay&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=FFFFFF&langs_count=10" width="90%" />
+</div>
 
-<div align="center" style="margin-top: 20px;">
+<div align="center">
+  <h3>📈 Contribution Timeline & Activity Graph 📈</h3>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v-eenay&theme=radical" width="90%" />
+</div>
+
+<div align="center">
+  <h3>⏱️ Productive Time Analysis</h3>
+  <img src="https://camo.githubusercontent.com/40445610f04fec2a32d935a316ae905e8a08d66154a5db76c29d66624fb1aea1/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f647563746976652d74696d653f757365726e616d653d762d65656e6179267468656d653d7261646963616c267574634f66667365743d2b352e3735" width="90%" />
+</div>
+
+<div align="center">
+  <h3>📊 Language Distribution & Usage Patterns 📊</h3>
   <table>
     <tr>
       <td width="50%">
-        <div align="center">
-          <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="280">
-          <br><br>
-          <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=22&pause=1000&color=FF00FF&center=true&vCenter=true&random=false&width=280&lines=Teaching+the+art+of+code;Mentoring+future+developers;Sharing+technical+knowledge;Inspiring+digital+creativity" alt="Teaching Coding" /></a>
-        </div>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=v-eenay&theme=radical" width="100%" />
       </td>
       <td width="50%">
-        <div align="center">
-          <img src="https://media.giphy.com/media/3o7aTuy3b4TwuUSUzm/giphy.gif" width="280">
-          <br><br>
-          <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=280&lines=Exploring+theatrical+arts;Blending+tech+with+creativity;Performing+with+passion;Visual+storytelling" alt="Theater and Art" /></a>
-        </div>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=v-eenay&theme=radical" width="100%" />
       </td>
     </tr>
   </table>
+</div>
+
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="40" /> Let's Connect
+
+<div align="center">
+  <a href="mailto:koiralavinay@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/v-eenay">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/veenay/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</div>
+
+<div align="center">
+  <p style="font-size:18px; margin-top:20px;">
+    "Whether writing code or performing on stage, I'm always looking to create something meaningful. <br>
+    Let's collaborate and build something extraordinary together."
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://th.bing.com/th/id/R.81178b47a8598f0c81c4799f2cdd4057?rik=5cuVK%2bfI%2bsPqqw&pid=ImgRaw&r=0" width="700" />
+  <p style="font-size:16px; font-style:italic; margin-top:10px;">
+    "The code is just the beginning. The magic happens when technology meets human creativity."
+  </p>
 </div>
