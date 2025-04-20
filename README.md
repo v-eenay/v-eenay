@@ -97,14 +97,14 @@ My background in theater has enhanced my professional capabilities, particularly
 > *"All the world's a stage, and all the men and women merely players."* - William Shakespeare
 
 The methodical approach required in theatrical productions parallels software development practices, emphasizing precision, iteration, and team coordination. Both disciplines require structured creativity and meticulous attention to detail.
-## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="40" /> GitHub Trophies
+## <img src="https://cdnl.iconscout.com/lottie/premium/thumb/trophy-6905869-5650597.gif" width="40" /> GitHub Trophies
 
 <div align="center">
   <h3>🏆 Achievements & Recognition 🏆</h3>
   <img src="https://github-profile-trophy.vercel.app/?username=v-eenay&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=6" width="100%" />
 </div>
 
-## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="40" /> GitHub Stats
+## <img src="https://th.bing.com/th/id/R.25bffa58e933350fb9710712209fe0eb?rik=dEX260hUKXstSg&riu=http%3a%2f%2fclipart-library.com%2fimg%2f1980581.gif&ehk=wgrV87A29g19ew5vRHX%2fKyo9MP8O%2bCOxqV5z6vM9alk%3d&risl=&pid=ImgRaw&r=0" width="40" /> GitHub Stats
 
 <div align="center">
   <h3>📊 Contribution Metrics & Activity 📊</h3>
@@ -167,7 +167,7 @@ The methodical approach required in theatrical productions parallels software de
 </div>
 
 <div align="center">
-  <img src="https://th.bing.com/th/id/R.81178b47a8598f0c81c4799f2cdd4057?rik=5cuVK%2bfI%2bsPqqw&pid=ImgRaw&r=0" width="700" />
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8" width="700" />
   <p style="font-size:16px; font-style:italic; margin-top:10px;">
     "The code is just the beginning. The magic happens when technology meets human creativity."
   </p>
