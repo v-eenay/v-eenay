@@ -54,7 +54,7 @@ When I'm not immersed in code or teaching, you'll find me on stage, where I chan
 
 ---
 
-## `<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="35" />` Tech Arsenal
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="35" /> Tech Arsenal
 
 ```bash
 $ ls -la ~/tech-stack/
@@ -201,7 +201,7 @@ $ open https://v-eenay.github.io/terminal-portfolio
 
 ---
 
-## `<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7cc5988c-f607-4d4f-ab01-360a4f9321eb" width="35" />` The Stage & The Screen
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7cc5988c-f607-4d4f-ab01-360a4f9321eb" width="35" /> The Stage & The Screen
 
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/dad5d025-91c3-43b9-9a3d-1c9266f77cb7" width="450">
@@ -225,7 +225,7 @@ Whether debugging code or delivering a monologue, both require attention to deta
 
 ---
 
-## `<img src="https://cdnl.iconscout.com/lottie/premium/thumb/trophy-6905869-5650597.gif" width="35" />` GitHub Achievements
+## <img src="https://cdnl.iconscout.com/lottie/premium/thumb/trophy-6905869-5650597.gif" width="35" /> GitHub Achievements
 
 ```bash
 $ git log --oneline --graph --achievements
@@ -241,7 +241,7 @@ $ git log --oneline --graph --achievements
 
 ---
 
-## `<img src="https://th.bing.com/th/id/R.25bffa58e933350fb9710712209fe0eb?rik=dEX260hUKXstSg&riu=http%3a%2f%2fclipart-library.com%2fimg%2f1980581.gif&ehk=wgrV87A29g19ew5vRHX%2fKyo9MP8O%2bCOxqV5z6vM9alk%3d&risl=&pid=ImgRaw&r=0" width="35" />` GitHub Analytics Dashboard
+## <img src="https://th.bing.com/th/id/R.25bffa58e933350fb9710712209fe0eb?rik=dEX260hUKXstSg&riu=http%3a%2f%2fclipart-library.com%2fimg%2f1980581.gif&ehk=wgrV87A29g19ew5vRHX%2fKyo9MP8O%2bCOxqV5z6vM9alk%3d&risl=&pid=ImgRaw&r=0" width="35" /> GitHub Analytics Dashboard
 
 ```bash
 $ ./analytics --comprehensive --visual
@@ -289,7 +289,7 @@ $ ./analytics --comprehensive --visual
 
 ---
 
-## `<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="35" />` Let's Connect
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="35" /> Let's Connect
 
 ```bash
 $ ./connect --platforms=all
@@ -332,9 +332,9 @@ $ ./connect --platforms=all
 ```bash
 $ cat philosophy.txt
 ╭─────────────────────────────────────────────────────────────────╮
-│  "Whether writing code or performing on stage, I'm always                                  │
-│   looking to create something meaningful.                                                              │ 
-│   Let's collaborate and build something extraordinary together."              │
+│  "Whether writing code or performing on stage, I'm always       │
+│   looking to create something meaningful.                       │ 
+│   Let's collaborate and build something extraordinary together."│
 ╰─────────────────────────────────────────────────────────────────╯
 
 $ echo "The code is just the beginning."
@@ -347,13 +347,4 @@ $ logout
 Session terminated.
 
 [vinay@terminal disconnected]
-```
-
-```
-
-<div align="center">
-  
-### 🚀 *Ready to innovate? Let's connect and create the future together!* 🚀
-
-</div>
 ```
