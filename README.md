@@ -18,18 +18,17 @@
 ┌─[vinay@terminal]─[~/profile]
 └──╼ $ cat developer.config
 
-╭─────────────────────────────────────────────────────╮
-│                 🧑‍💻 DEVELOPER PROFILE 🎭            │
-├─────────────────────────────────────────────────────┤
-│ Name        │ Vinay Koirala                         │
-│ Role        │ Lecturer @ Itahari International      │
-│             │ College                               │
-│ Education   │ CS Engineer + MBA                     │
-│ Location    │ Nepal 🇳🇵                              │
-│ Status      │ Teaching • Coding • Performing        │
-│ Portfolio   │ v-eenay.github.io/terminal-portfolio  │
-│ Email       │ koiralavinay@gmail.com                │
-╰─────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────╮
+│                 🧑‍💻 DEVELOPER PROFILE 🎭               │
+├────────────────────────────────────────────────────────┤
+│ Name        │ Vinay Koirala                            │
+│ Role        │ Lecturer @ Itahari International College │
+│ Education   │ CS Engineer + MBA                        │
+│ Location    │ Nepal 🇳🇵                                 │
+│ Status      │ Teaching • Coding • Performing           │
+│ Portfolio   │ v-eenay.github.io/terminal-portfolio     │
+│ Email       │ koiralavinay@gmail.com                   │
+╰────────────────────────────────────────────────────────╯
 
 $ echo "Building the future, one line of code at a time..."
 Building the future, one line of code at a time...
@@ -38,10 +37,9 @@ Building the future, one line of code at a time...
 <div align="center">
   <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" height="320">
 </div>
+Lecturer at Itahari International College with a background in computer science and business. I blend technical and practical knowledge to guide future developers.
 
-Versatile technology enthusiast with a unique blend of technical expertise and creative expression. Currently shaping the next generation of developers as a **Lecturer at Itahari International College**. My background in computer science engineering and business administration provides a holistic perspective on technology and its applications.
-
-When I'm not immersed in code or teaching, you'll find me on stage, where I channel my passion for theatrical arts - because the best developers understand both logic *and* storytelling.
+Off-campus, I'm active in theatre-believing that strong developers master both logic and storytelling.
 
 > *"At the intersection of logic and creativity lies true innovation."*
 
@@ -49,7 +47,6 @@ When I'm not immersed in code or teaching, you'll find me on stage, where I chan
 
 - 💻 **CS Engineer + MBA** - The perfect blend of tech and business
 - 🎭 **Theater Performer** - Where creativity meets expression
-- 🌱 **Always Learning** - Currently exploring AI/ML and Web3
 - 💬 **Ask me about** - The parallels between coding and performing arts
 
 ---
@@ -111,7 +108,7 @@ drwxr-xr-x  tools/          📁 Development environment
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" alt="Xamarin" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=.NET&logoColor=white" alt=".NET MAUI" />
 </p>
 
 ### 🗄️ **Databases**
@@ -185,7 +182,6 @@ learning_path:
 ```bash
 $ open https://v-eenay.github.io/terminal-portfolio
 🚀 Launching interactive terminal experience...
-✨ Where code meets creativity in a CLI interface
 ⚡ Loading portfolio modules...
 📂 Initializing project showcase...
 🎯 Ready for exploration!
@@ -201,30 +197,6 @@ $ open https://v-eenay.github.io/terminal-portfolio
 
 ---
 
-## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7cc5988c-f607-4d4f-ab01-360a4f9321eb" width="35" /> The Stage & The Screen
-
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/dad5d025-91c3-43b9-9a3d-1c9266f77cb7" width="450">
-</div>
-
-```bash
-$ ./theater_mode --init
-🎭 Initializing performance module...
-🎪 Loading stage presence... ✓
-🎬 Applying storytelling skills to tech... ✓
-🎯 Performance mode: ACTIVE
-```
-
-My theatrical background enhances my professional capabilities in unexpected ways. **Communication**, **presentation**, and **audience engagement** - skills honed on stage translate directly to the technology sector.
-
-The methodical approach of theatrical productions mirrors software development: **precision**, **iteration**, **team coordination**, and **structured creativity**.
-
-> *"All the world's a stage, and all the men and women merely players."* - William Shakespeare
-
-Whether debugging code or delivering a monologue, both require attention to detail, practice, and the ability to adapt when things don't go as planned.
-
----
-
 ## <img src="https://cdnl.iconscout.com/lottie/premium/thumb/trophy-6905869-5650597.gif" width="35" /> GitHub Achievements
 
 ```bash
@@ -236,7 +208,7 @@ $ git log --oneline --graph --achievements
 ```
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=v-eenay&theme=radical&no-frame=true&no-bg=false&margin-w=4&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=v-eenay&theme=radical&no-frame=true&no-bg=false&margin-w=4&margin-h=8&column=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" />
 </div>
 
 ---
@@ -263,28 +235,10 @@ $ ./analytics --comprehensive --visual
 
 <div align="center">
 
-### **🧩 Language Distribution & Usage**
+### **🧩 Language & Activity Stats**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-eenay&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=FFFFFF&langs_count=8" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=v-eenay&theme=radical" width="49%" />
-
-</div>
-
-<div align="center">
-
-### **📈 Comprehensive Activity Timeline**
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v-eenay&theme=radical" width="100%" />
-
-</div>
-
-<div align="center">
-
-### **⏱️ Productive Time Analysis**
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=v-eenay&theme=radical&utcOffset=+5.75" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=v-eenay&theme=radical" width="49%" />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=v-eenay&theme=radical&utcOffset=5.75" width="49%" />
 </div>
 
 ---
@@ -292,15 +246,11 @@ $ ./analytics --comprehensive --visual
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="35" /> Let's Connect
 
 ```bash
-$ ./connect --platforms=all
-🌐 Establishing connections across platforms...
-📫 Opening communication channels...
-🔗 Network initialized successfully!
+$ ./connect --all
+🌐 Network ready! 📫 Channels open!
 ```
 
 <div align="center">
-
-### **💫 Find Me Across The Digital Universe**
 
 <a href="mailto:koiralavinay@gmail.com">
   <img src="https://img.shields.io/badge/Personal_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email" />
@@ -329,16 +279,12 @@ $ ./connect --platforms=all
 </div>
 
 ```bash
-```bash
 $ cat philosophy.txt
 ╭─────────────────────────────────────────────────────────────────╮
 │  "Whether writing code or performing on stage, I'm always       │
 │   looking to create something meaningful.                       │ 
 │   Let's collaborate and build something extraordinary together."│
 ╰─────────────────────────────────────────────────────────────────╯
-
-$ echo "The code is just the beginning."
-The code is just the beginning.
 
 $ echo "The magic happens when technology meets human creativity."
 The magic happens when technology meets human creativity.
